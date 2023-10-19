@@ -12,7 +12,7 @@ Note: Some content is focused on Germany. Die nachfolgenden Definitionen beziehe
 - Moderne Messeinrichtung (mME): Moderne Messeinrichtungen sind digitale Stromzähler, die den Stromverbrauch besser veranschaulichen als die bisherigen Zähler. Anders als bei den bestehenden Zähler, an denen man ausschließlich den aktuellen Zählerstand ablesen kann, zeigen moderne Messeinrichtungen neben dem aktuellen Stromverbrauch auch tages-, wochen-, monats- und jahresbezogene Stromverbrauchswerte der letzten 24 Monate (ab Einbau) an.
 - Intelligentes Messsystem (iMSys): Intelligente Messsysteme bestehen aus einer modernen Messeinrichtung und einer Kommunikationseinheit. Wesentlicher Unterschied zur modernen Messeinrichtung ist die Kommunikationseinheit. Intelligente Messsysteme sind in der Lage, wichtige Netz- und Verbrauchswerte zu erfassen und an den zuständigen Messstellenbetreiber, Netzbetreiber und Stromversorger zu übermitteln. Die Datenübertragung erfolgt verschlüsselt über eine gesicherte Datenverbindung.
 - Smart Meter: Für "intelligente Messsysteme" wird häufig der englische Begriff "Smart Meter" verwendet. Smart Meter heißt wörtlich übersetzt intelligente Zähler.
-- Smart Meter Gateway: Kommunikationseinheit / Kommunikationsmodul
+- Smart Meter Gateway (SMGw): Kommunikationseinheit / Kommunikationsmodul
 
 ## Definitionen 3
 - Stromanbieter: Elek­tri­zi­täts­ver­sor­gungs­un­ter­neh­men
