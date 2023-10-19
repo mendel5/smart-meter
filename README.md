@@ -19,7 +19,7 @@ Note: Some content is focused on Germany. Die nachfolgenden Definitionen beziehe
   - 450 MHz
   - Quadband; GSM 850 MHz: max 2 Watt, GSM 900 MHz: max. 2 Watt, DCS 1800 MHz: max. 1 Watt, PCS 1900 MHz: max. 1 Watt
 - Welche Institution empfängt die vom Smart Meter Gateway gesendeten Signale/Daten?
-- Ist der Empfang stationär oder mobil?
+- Ist die Position des Empfängers stationär oder mobil?
 
 ## Links
 - https://www.bundesnetzagentur.de/SharedDocs/A_Z_Glossar/M/ModerneMesseinrichtung.html
