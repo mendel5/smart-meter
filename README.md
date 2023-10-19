@@ -24,7 +24,9 @@ Note: Some content is focused on Germany. Die nachfolgenden Definitionen beziehe
   - 450 MHz
   - Quadband; GSM 850 MHz: max 2 Watt, GSM 900 MHz: max. 2 Watt, DCS 1800 MHz: max. 1 Watt, PCS 1900 MHz: max. 1 Watt
 - Welche Institution empfängt die vom Smart Meter Gateway gesendeten Signale/Daten?
+  - Vermutung: Letztendlich erhalten alle drei Institutionen (Stromanbieter, Netzbetreiber, Messstellenbetreiber) die für sie relevanten Informationen. Welche dieser Institutionen die Daten als erstes erhält und dann an die anderen weitergibt, konnte ich noch nicht herausfinden. Ich vermute allerdings, dass die Daten als erstes an den Messstellenbetreiber geschickt werden.
 - Ist die Position des Empfängers stationär oder mobil?
+  - Vermutung: Die Empfänger sind stationär verbaut.
 
 ## Stromverbrauch lokal auslesen
 - BitShake SmartMeterReader
