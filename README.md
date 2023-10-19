@@ -16,6 +16,8 @@ Note: Some content is focused on Germany. Die nachfolgenden Definitionen beziehe
 
 ## Fragen
 - Frequenz (in Hertz) von Smart Meter Gateways
+  - 450 MHz
+  - Quadband; GSM 850 MHz: max 2 Watt, GSM 900 MHz: max. 2 Watt, DCS 1800 MHz: max. 1 Watt, PCS 1900 MHz: max. 1 Watt
 - Welche Institution empfängt die vom Smart Meter Gateway gesendeten Signale/Daten?
 - Ist der Empfang stationär oder mobil?
 
@@ -33,3 +35,7 @@ Note: Some content is focused on Germany. Die nachfolgenden Definitionen beziehe
 - https://de.wikipedia.org/wiki/Stromz%C3%A4hler
 - https://de.wikipedia.org/wiki/Intelligenter_Z%C3%A4hler
 - https://de.wikipedia.org/wiki/Smart_Meter_Gateway
+- https://smartservice.de/inbetriebnahme-erster-450-mhz-smart-meter-gateways/ , Archive: https://web.archive.org/web/20231019060538/https://smartservice.de/inbetriebnahme-erster-450-mhz-smart-meter-gateways/
+- https://www.sagemcom.com/V02/fileadmin/user_upload/Energy/Dr.Neuhaus/Products/Fiches_prod_2016/DB_SMARTY_IQ-GPRS_1v2.pdf , Archive: https://web.archive.org/web/20231019060534/https://www.sagemcom.com/V02/fileadmin/user_upload/Energy/Dr.Neuhaus/Products/Fiches_prod_2016/DB_SMARTY_IQ-GPRS_1v2.pdf
+- https://www.emf-portal.org/de/emf-source/426 , Archive: https://web.archive.org/web/20231019060542/https://www.emf-portal.org/de/emf-source/426
+- https://www.bfs.de/DE/themen/emf/hff/quellen/smart-meter/smart-meter_node.html , Archive: https://web.archive.org/web/20231019060815/https://www.bfs.de/DE/themen/emf/hff/quellen/smart-meter/smart-meter_node.html
