@@ -40,6 +40,7 @@ Andere Stichworte:
 - Tasmota
 - OpenHAB
 - ioBroker
+- Powerfox Poweropti
 
 ## Links
 - https://www.bundesnetzagentur.de/SharedDocs/A_Z_Glossar/M/ModerneMesseinrichtung.html
