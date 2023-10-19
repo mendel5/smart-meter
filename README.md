@@ -45,3 +45,4 @@ Note: Some content is focused on Germany. Die nachfolgenden Definitionen beziehe
 - https://www.emf-portal.org/de/emf-source/426 , Archive: https://web.archive.org/web/20231019060542/https://www.emf-portal.org/de/emf-source/426
 - https://www.bfs.de/DE/themen/emf/hff/quellen/smart-meter/smart-meter_node.html , Archive: https://web.archive.org/web/20231019060815/https://www.bfs.de/DE/themen/emf/hff/quellen/smart-meter/smart-meter_node.html
 - https://www.gesetze-im-internet.de/messbg/ Messstellenbetriebsgesetz (MsbG), siehe auch § 2 Begriffsbestimmungen
+- https://www.verbraucherzentrale.de/wissen/energie/preise-tarife-anbieterwechsel/smart-meter-was-sie-ueber-die-neuen-stromzaehler-wissen-muessen-13275
