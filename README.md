@@ -29,6 +29,8 @@ Note: Some content is focused on Germany. Die nachfolgenden Definitionen beziehe
 ## Stromverbrauch lokal auslesen
 - BitShake SmartMeterReader
 - https://github.com/arendst/Tasmota
+- https://tasmota.github.io/docs/
+- https://tasmota.github.io/docs/Smart-Meter-Interface/
 
 ## Links
 - https://www.bundesnetzagentur.de/SharedDocs/A_Z_Glossar/M/ModerneMesseinrichtung.html
