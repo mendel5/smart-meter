@@ -3,16 +3,21 @@ Information about electricity meters, smart meters, smart meter gateways / Strom
 
 Note: Some content is focused on Germany. Die nachfolgenden Definitionen beziehen sich auf Deutschland.
 
-## Definitionen: Kurzfrassung
+## Definitionen 1: Kurzfrassung
 - `Intelligentes Messsystem (iMSys)` aka Smart Meter = `Moderne Messeinrichtung (mME)` + `Kommunikationseinheit` aka Smart Meter Gateway
 
-## Definitionen: Langfassung
+## Definitionen 2: Langfassung
 - Stromzähler: Messgerät, das die übertragene elektrische Energie an einem Zählerpunkt erfasst.
 - Ferraris-Stromzähler: elektromechanisches Messgerät für elektrische Energie, auch Induktionszähler genannt.
 - Moderne Messeinrichtung (mME): Moderne Messeinrichtungen sind digitale Stromzähler, die den Stromverbrauch besser veranschaulichen als die bisherigen Zähler. Anders als bei den bestehenden Zähler, an denen man ausschließlich den aktuellen Zählerstand ablesen kann, zeigen moderne Messeinrichtungen neben dem aktuellen Stromverbrauch auch tages-, wochen-, monats- und jahresbezogene Stromverbrauchswerte der letzten 24 Monate (ab Einbau) an.
 - Intelligentes Messsystem (iMSys): Intelligente Messsysteme bestehen aus einer modernen Messeinrichtung und einer Kommunikationseinheit. Wesentlicher Unterschied zur modernen Messeinrichtung ist die Kommunikationseinheit. Intelligente Messsysteme sind in der Lage, wichtige Netz- und Verbrauchswerte zu erfassen und an den zuständigen Messstellenbetreiber, Netzbetreiber und Stromversorger zu übermitteln. Die Datenübertragung erfolgt verschlüsselt über eine gesicherte Datenverbindung.
 - Smart Meter: Für "intelligente Messsysteme" wird häufig der englische Begriff "Smart Meter" verwendet. Smart Meter heißt wörtlich übersetzt intelligente Zähler.
 - Smart Meter Gateway: Kommunikationseinheit / Kommunikationsmodul
+
+## Definitionen 3
+- Stromanbieter: Elek­tri­zi­täts­ver­sor­gungs­un­ter­neh­men
+- Netzbetreiber
+- Messstellenbetreiber
 
 ## Fragen
 - Frequenz (in Hertz) von Smart Meter Gateways
