@@ -33,6 +33,8 @@ Note: Some content is focused on Germany. Die nachfolgenden Definitionen beziehe
 - https://github.com/arendst/Tasmota
 - https://tasmota.github.io/docs/
 - https://tasmota.github.io/docs/Smart-Meter-Interface/
+- https://www.elefacts.de/test-modernen_stromzaehler_auslesen_mit_bitshake_smartmeter__installation_und_einrichtung
+- https://www.elefacts.de/test-mqtt_daten_mit_node_red_in_influxdb2_speichern_und_in_grafana_visualisieren
 
 ## Links
 - https://www.bundesnetzagentur.de/SharedDocs/A_Z_Glossar/M/ModerneMesseinrichtung.html
