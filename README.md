@@ -26,6 +26,9 @@ Note: Some content is focused on Germany. Die nachfolgenden Definitionen beziehe
 - Welche Institution empfängt die vom Smart Meter Gateway gesendeten Signale/Daten?
 - Ist die Position des Empfängers stationär oder mobil?
 
+## Stromverbrauch lokal auslesen
+- BitShake SmartMeterReader
+
 ## Links
 - https://www.bundesnetzagentur.de/SharedDocs/A_Z_Glossar/M/ModerneMesseinrichtung.html
 - https://www.bundesnetzagentur.de/SharedDocs/A_Z_Glossar/S/SmartMeterGateway.html
