@@ -44,3 +44,4 @@ Note: Some content is focused on Germany. Die nachfolgenden Definitionen beziehe
 - https://www.sagemcom.com/V02/fileadmin/user_upload/Energy/Dr.Neuhaus/Products/Fiches_prod_2016/DB_SMARTY_IQ-GPRS_1v2.pdf , Archive: https://web.archive.org/web/20231019060534/https://www.sagemcom.com/V02/fileadmin/user_upload/Energy/Dr.Neuhaus/Products/Fiches_prod_2016/DB_SMARTY_IQ-GPRS_1v2.pdf
 - https://www.emf-portal.org/de/emf-source/426 , Archive: https://web.archive.org/web/20231019060542/https://www.emf-portal.org/de/emf-source/426
 - https://www.bfs.de/DE/themen/emf/hff/quellen/smart-meter/smart-meter_node.html , Archive: https://web.archive.org/web/20231019060815/https://www.bfs.de/DE/themen/emf/hff/quellen/smart-meter/smart-meter_node.html
+- https://www.gesetze-im-internet.de/messbg/ Messstellenbetriebsgesetz (MsbG), siehe auch § 2 Begriffsbestimmungen
