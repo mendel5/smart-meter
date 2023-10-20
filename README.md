@@ -24,6 +24,7 @@ Note: Some content is focused on Germany. Die nachfolgenden Definitionen beziehe
   - 450 MHz
   - Quadband; GSM 850 MHz: max 2 Watt, GSM 900 MHz: max. 2 Watt, DCS 1800 MHz: max. 1 Watt, PCS 1900 MHz: max. 1 Watt
 - Welche Institution empfängt die vom Smart Meter Gateway gesendeten Signale/Daten?
+  - Antwort: "Durch dieses Smart-Meter-Gateway wird der exakt erfasste Stromverbrauch automatisch an den Messstellenbetreiber übermittelt.", Quelle: https://www.vattenfall.de/infowelt-energie/digitaler-stromzaehler
   - Vermutung: Letztendlich erhalten alle drei Institutionen (Stromanbieter, Netzbetreiber, Messstellenbetreiber) die für sie relevanten Informationen. Welche dieser Institutionen die Daten als erstes erhält und dann an die anderen weitergibt, konnte ich noch nicht herausfinden. Ich vermute allerdings, dass die Daten als erstes an den Messstellenbetreiber geschickt werden.
 - Ist die Position des Empfängers stationär oder mobil?
   - Vermutung: Die Empfänger sind stationär verbaut.
@@ -62,3 +63,5 @@ Andere Stichworte:
 - https://www.bfs.de/DE/themen/emf/hff/quellen/smart-meter/smart-meter_node.html , Archive: https://web.archive.org/web/20231019060815/https://www.bfs.de/DE/themen/emf/hff/quellen/smart-meter/smart-meter_node.html
 - https://www.gesetze-im-internet.de/messbg/ Messstellenbetriebsgesetz (MsbG), siehe auch § 2 Begriffsbestimmungen
 - https://www.verbraucherzentrale.de/wissen/energie/preise-tarife-anbieterwechsel/smart-meter-was-sie-ueber-die-neuen-stromzaehler-wissen-muessen-13275
+- https://www.vattenfall.de/infowelt-energie/digitaler-stromzaehler
+- https://www.vattenfall.de/infowelt-energie/messeinrichtungen-und-messsysteme-erkennen
