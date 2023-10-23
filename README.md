@@ -4,7 +4,7 @@ Information about electricity meters, smart meters, smart meter gateways / Strom
 Note: Some content is focused on Germany. Die nachfolgenden Definitionen beziehen sich auf Deutschland.
 
 ## Definitionen 1: Kurzfrassung
-- `Intelligentes Messsystem (iMSys)` aka Smart Meter = `Moderne Messeinrichtung (mME)` + `Kommunikationseinheit` aka Smart Meter Gateway
+- `Intelligentes Messsystem (iMSys)` aka Smart Meter = `Moderne Messeinrichtung (mME)` + `Kommunikationseinheit` aka Smart Meter Gateway (SMGw)
 
 ## Definitionen 2: Langfassung
 - Stromzähler: Messgerät, das die übertragene elektrische Energie an einem Zählerpunkt erfasst.
@@ -17,17 +17,17 @@ Note: Some content is focused on Germany. Die nachfolgenden Definitionen beziehe
 ## Definitionen 3
 - Stromanbieter: Elek­tri­zi­täts­ver­sor­gungs­un­ter­neh­men
 - Netzbetreiber
-- Messstellenbetreiber
+- Messstellenbetreiber (grundzuständiger Messstellenbetreiber, wettbewerblicher Messstellenbetreiber)
 
 ## Fragen
 - Frequenz (in Hertz) von Smart Meter Gateways
   - 450 MHz
   - Quadband; GSM 850 MHz: max 2 Watt, GSM 900 MHz: max. 2 Watt, DCS 1800 MHz: max. 1 Watt, PCS 1900 MHz: max. 1 Watt
 - Welche Institution empfängt die vom Smart Meter Gateway gesendeten Signale/Daten?
-  - Antwort: "Durch dieses Smart-Meter-Gateway wird der exakt erfasste Stromverbrauch automatisch an den Messstellenbetreiber übermittelt.", Quelle: https://www.vattenfall.de/infowelt-energie/digitaler-stromzaehler
-  - Vermutung: Letztendlich erhalten alle drei Institutionen (Stromanbieter, Netzbetreiber, Messstellenbetreiber) die für sie relevanten Informationen. Welche dieser Institutionen die Daten als erstes erhält und dann an die anderen weitergibt, konnte ich noch nicht herausfinden. Ich vermute allerdings, dass die Daten als erstes an den Messstellenbetreiber geschickt werden.
+  - Antwort: "Durch [das] Smart-Meter-Gateway wird der exakt erfasste Stromverbrauch automatisch an den Messstellenbetreiber übermittelt.", Quelle: https://www.vattenfall.de/infowelt-energie/digitaler-stromzaehler
 - Ist die Position des Empfängers stationär oder mobil?
   - Vermutung: Die Empfänger sind stationär verbaut.
+- Betrifft der Einbau von Smart Metern nur den Energieträger Strom? Oder geht es auch um andere Energieträger wie bspw. Gas? Was ist mit Wasser?
 
 ## Stromverbrauch lokal auslesen
 - BitShake SmartMeterReader
@@ -42,6 +42,11 @@ Andere Stichworte:
 - OpenHAB
 - ioBroker
 - Powerfox Poweropti
+
+## Recht
+Recht auf Installation eines Smart Meters
+- Quelle 1: `§ 34 Absatz 2 Nummer 1 Messstellenbetriebsgesetz (MsbG)`: "[...] Letztverbraucher [...] können für sich [...] folgende Zusatzleistungen vom Messstellenbetreiber verlangen: (1) ab 2025 die vorzeitige Ausstattung von Messstellen mit einem intelligenten Messsystem innerhalb von vier Monaten ab Beauftragung [...].", https://www.gesetze-im-internet.de/messbg/__34.html
+- Quelle 2: "Ab 2025 soll jeder Haushalt berechtigt sein, ein intelligentes Messsystem, also ein Smart Meter, zu bekommen.", https://www.finanztip.de/stromzaehler/
 
 ## Links
 - https://www.bundesnetzagentur.de/SharedDocs/A_Z_Glossar/M/ModerneMesseinrichtung.html
