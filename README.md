@@ -3,7 +3,7 @@ Information about electricity meters, smart meters, smart meter gateways / Strom
 
 Note: Some content is focused on Germany. Die nachfolgenden Definitionen beziehen sich auf Deutschland.
 
-## Definitionen 1: Kurzfrassung
+## Definitionen 1: Kurzfassung
 - `Intelligentes Messsystem (iMSys)` aka Smart Meter = `Moderne Messeinrichtung (mME)` + `Kommunikationseinheit` aka Smart Meter Gateway (SMGw)
 
 ## Definitionen 2: Langfassung
