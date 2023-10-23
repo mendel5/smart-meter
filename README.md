@@ -28,6 +28,7 @@ Note: Some content is focused on Germany. Die nachfolgenden Definitionen beziehe
 - Ist die Position des Empfängers stationär oder mobil?
   - Vermutung: Die Empfänger sind stationär verbaut.
 - Betrifft der Einbau von Smart Metern nur den Energieträger Strom? Oder geht es auch um andere Energieträger wie bspw. Gas? Was ist mit Wasser?
+- Können nur moderne Messeinrichtungen mit einem Infrarot-Lesekopf ausgelesen werden? Oder auch intelligente Messsysteme (Smart Meter)?
 
 ## Stromverbrauch lokal auslesen
 - BitShake SmartMeterReader
