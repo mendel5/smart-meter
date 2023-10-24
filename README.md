@@ -37,6 +37,8 @@ Note: Some content is focused on Germany. Die nachfolgenden Definitionen beziehe
 - https://tasmota.github.io/docs/Smart-Meter-Interface/
 - https://www.elefacts.de/test-modernen_stromzaehler_auslesen_mit_bitshake_smartmeter__installation_und_einrichtung
 - https://www.elefacts.de/test-mqtt_daten_mit_node_red_in_influxdb2_speichern_und_in_grafana_visualisieren
+- https://hessburg.de/smarter-verbrauchszaehler-ganz-einfach/ Powerfox Poweropti
+- https://hessburg.de/tasmota-wifi-smartmeter-konfigurieren/ Tasmota
 
 Andere Stichworte:
 - Tasmota
