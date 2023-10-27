@@ -3,6 +3,9 @@ Information about electricity meters, smart meters, smart meter gateways / Strom
 
 Note: Some content is focused on Germany. Die nachfolgenden Definitionen beziehen sich auf Deutschland.
 
+Siehe auch:
+- https://github.com/mendel5/tasmota-docs_fork/
+
 ## Definitionen 1: Kurzfassung
 - `Intelligentes Messsystem (iMSys)` aka Smart Meter = `Moderne Messeinrichtung (mME)` + `Kommunikationseinheit` aka Smart Meter Gateway (SMGw)
 
