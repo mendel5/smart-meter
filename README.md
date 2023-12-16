@@ -42,6 +42,8 @@ Siehe auch:
 - https://www.elefacts.de/test-mqtt_daten_mit_node_red_in_influxdb2_speichern_und_in_grafana_visualisieren
 - https://hessburg.de/smarter-verbrauchszaehler-ganz-einfach/ Powerfox Poweropti
 - https://hessburg.de/tasmota-wifi-smartmeter-konfigurieren/ Tasmota
+- https://hessburg.de/tasmota-smartmeter-faq/ Tasmota FAQ
+- https://tasmota-sml-parser.dicp.net/ Tasmota SML Decoder Generator
 
 Andere Stichworte:
 - Tasmota
