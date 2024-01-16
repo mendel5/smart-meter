@@ -35,6 +35,10 @@ Siehe auch:
   - Dort steht die Frage: "Sind Gas-Zähler auch betroffen?"
   - Antwort: "Die Einführung von intelligenten Messsystemen betrifft zunächst nur die Zähler für den Stromverbrauch."
 - Können nur moderne Messeinrichtungen mit einem Infrarot-Lesekopf ausgelesen werden? Oder auch intelligente Messsysteme (Smart Meter)?
+- Kann ich freiwillig ein intelligentes Messsystem einbauen lassen?
+  - Antwort siehe: https://www.bundesnetzagentur.de/DE/Vportal/Energie/Metering/start.html
+  - Dort steht die Frage: "Kann ich freiwillig ein intelligentes Messsystem einbauen lassen?"
+  - Antwort: "Ja. Sie können ab 2025 den Einbau eines intelligenten Messsystems vom grundzuständigen Messstellenbetreiber auf eigene Kosten gegen ein Entgelt in Höhe von nicht mehr als einmalig 30 Euro verlangen. Das einmalige Entgelt gilt unabhängig von der Einbaugruppe des MsbG. Die allgemeinen Preisobergrenzen bleiben davon unberührt (§ 30 MsbG)."
 
 ## Stromverbrauch lokal auslesen
 - BitShake SmartMeterReader
