@@ -31,6 +31,9 @@ Siehe auch:
 - Ist die Position des Empfängers stationär oder mobil?
   - Vermutung: Die Empfänger sind stationär verbaut.
 - Betrifft der Einbau von Smart Metern nur den Energieträger Strom? Oder geht es auch um andere Energieträger wie bspw. Gas? Was ist mit Wasser?
+  - Antwort siehe: https://www.bundesnetzagentur.de/DE/Vportal/Energie/Metering/start.html
+  - Dort steht die Frage: "Sind Gas-Zähler auch betroffen?"
+  - Antwort: "Die Einführung von intelligenten Messsystemen betrifft zunächst nur die Zähler für den Stromverbrauch."
 - Können nur moderne Messeinrichtungen mit einem Infrarot-Lesekopf ausgelesen werden? Oder auch intelligente Messsysteme (Smart Meter)?
 
 ## Stromverbrauch lokal auslesen
