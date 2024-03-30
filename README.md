@@ -1,7 +1,7 @@
 # smart-meter
 Information about electricity meters, smart meters, smart meter gateways / Stromzähler, moderne und intelligente Messeinrichtungen
 
-Note: Some content is focused on Germany. Die nachfolgenden Definitionen beziehen sich auf Deutschland.
+Note: Some content is focused on Germany. Die Inhalte beziehen sich auf Deutschland.
 
 See also / Siehe auch:
 - https://github.com/mendel5/tasmota-docs_fork/
