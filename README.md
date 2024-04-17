@@ -85,3 +85,6 @@ Recht auf Installation eines Smart Meters
 - https://www.verbraucherzentrale.de/wissen/energie/preise-tarife-anbieterwechsel/smart-meter-was-sie-ueber-die-neuen-stromzaehler-wissen-muessen-13275
 - https://www.vattenfall.de/infowelt-energie/digitaler-stromzaehler
 - https://www.vattenfall.de/infowelt-energie/messeinrichtungen-und-messsysteme-erkennen
+- https://old.reddit.com/r/Energiewirtschaft/comments/1c64t8s/bundesnetzagentur_intelligentes_messsystem/
+- https://www.bundesnetzagentur.de/SharedDocs/Mediathek/Verbraucherhefte/Energie/IntelligentesMessystem_SmartMeter.pdf
+- https://www.bundesnetzagentur.de/SharedDocs/Mediathek/Verbraucherhefte/Energie/IntelligentesMessystem_SmartMeter.pdf?__blob=publicationFile&v=1
