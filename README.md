@@ -4,6 +4,7 @@ Information about electricity meters, smart meters, smart meter gateways / Strom
 Note: Some content is focused on Germany. Die Inhalte beziehen sich auf Deutschland.
 
 See also / Siehe auch:
+- https://github.com/mendel5/smart-meter-protocol
 - https://github.com/mendel5/tasmota-docs_fork/
 
 ## Definitionen 1: Kurzfassung
