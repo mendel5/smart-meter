@@ -8,7 +8,11 @@ See also / Siehe auch:
 - https://github.com/mendel5/tasmota-docs_fork/
 
 ## Definitionen 1: Kurzfassung
-- `Intelligentes Messsystem (iMSys)` aka Smart Meter = `Moderne Messeinrichtung (mME)` + `Kommunikationseinheit` aka Smart Meter Gateway (SMGw)
+- `Intelligentes Messsystem (iMSys)` aka Smart Meter
+  - `=`
+  - `Moderne Messeinrichtung (mME)`
+  - `+`
+  - `Kommunikationseinheit` aka Smart Meter Gateway (SMGw)
 
 ## Definitionen 2: Langfassung
 - Stromzähler: Messgerät, das die übertragene elektrische Energie an einem Zählerpunkt erfasst.
