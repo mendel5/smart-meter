@@ -68,6 +68,11 @@ Recht auf Installation eines Smart Meters
 - Quelle 1: `§ 34 Absatz 2 Nummer 1 Messstellenbetriebsgesetz (MsbG)`: "[...] Letztverbraucher [...] können für sich [...] folgende Zusatzleistungen vom Messstellenbetreiber verlangen: (1) ab 2025 die vorzeitige Ausstattung von Messstellen mit einem intelligenten Messsystem innerhalb von vier Monaten ab Beauftragung [...].", https://www.gesetze-im-internet.de/messbg/__34.html
 - Quelle 2: "Ab 2025 soll jeder Haushalt berechtigt sein, ein intelligentes Messsystem, also ein Smart Meter, zu bekommen.", https://www.finanztip.de/stromzaehler/
 
+## Begriffe
+Sonstige wichtige Begriffe:
+- Steuerbare Verbrauchseinrichtungen (§ 14a EnWG)
+- Energiemanagementsystem (EMS)
+
 ## Links
 - https://www.bundesnetzagentur.de/SharedDocs/A_Z_Glossar/M/ModerneMesseinrichtung.html
 - https://www.bundesnetzagentur.de/SharedDocs/A_Z_Glossar/S/SmartMeterGateway.html
