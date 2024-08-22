@@ -70,7 +70,7 @@ Recht auf Installation eines Smart Meters
 
 ## Begriffe
 Sonstige wichtige Begriffe:
-- Steuerbare Verbrauchseinrichtungen (§ 14a EnWG)
+- Steuerbare Verbrauchseinrichtungen (§ 14a EnWG), auch bekannt als "Dimming"
 - Energiemanagementsystem (EMS)
 
 ## Links
