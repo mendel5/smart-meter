@@ -99,3 +99,4 @@ Sonstige wichtige Begriffe:
 - https://old.reddit.com/r/Energiewirtschaft/comments/1c64t8s/bundesnetzagentur_intelligentes_messsystem/
 - https://www.bundesnetzagentur.de/SharedDocs/Mediathek/Verbraucherhefte/Energie/IntelligentesMessystem_SmartMeter.pdf
 - https://www.bundesnetzagentur.de/SharedDocs/Mediathek/Verbraucherhefte/Energie/IntelligentesMessystem_SmartMeter.pdf?__blob=publicationFile&v=1
+- https://www.bsi.bund.de/DE/Service-Navi/Presse/Pressemitteilungen/Presse2024/240917_SMGW-Steuerbox.html Digitale Energiewende: BSI zertifiziert erste Steuerbox für intelligente Messsysteme (Steuerbare Verbrauchseinrichtung?)
