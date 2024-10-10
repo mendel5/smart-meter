@@ -25,7 +25,7 @@ See also / Siehe auch:
 ## Definitionen 3
 - Stromanbieter: Elek­tri­zi­täts­ver­sor­gungs­un­ter­neh­men
 - Netzbetreiber
-- Messstellenbetreiber (grundzuständiger Messstellenbetreiber, wettbewerblicher Messstellenbetreiber)
+- Messstellenbetreiber: grundzuständiger Messstellenbetreiber (gMSB), wettbewerblicher Messstellenbetreiber
 
 ## Fragen
 - Frequenz (in Hertz) von Smart Meter Gateways
