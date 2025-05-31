@@ -70,7 +70,7 @@ Recht auf Installation eines Smart Meters
 
 ## Begriffe
 Sonstige wichtige Begriffe:
-- § 14a EnWG, Energiewirtschaftsgesetz: Steuerbare Verbrauchseinrichtungen, auch bekannt als: Dimming, Drosselung, Begrenzung
+- § 14a EnWG, Energiewirtschaftsgesetz: Steuerbare Verbrauchseinrichtungen (SteuVE), auch bekannt als: Dimming, Drosselung, Begrenzung
 - Energiemanagementsystem (EMS)
 - § 22 EnFG, Energiefinanzierungsgesetz
 
