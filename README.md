@@ -6,6 +6,7 @@ Note: Some content is focused on Germany. Die Inhalte beziehen sich auf Deutschl
 See also / Siehe auch:
 - https://github.com/mendel5/smart-meter-protocol
 - https://github.com/mendel5/tasmota-docs_fork/
+- https://github.com/mendel5/energy
 
 ## Definitionen 1: Kurzfassung
 - `Intelligentes Messsystem (iMSys)` aka Smart Meter
